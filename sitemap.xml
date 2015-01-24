@@ -2,133 +2,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://change.this/pdf-template.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/sample.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/about.html</loc>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/contracts.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/detail.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://change.this/pdf.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/4811.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/4811.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/4789.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/4789.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/4730.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/4730.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/4573.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/4573.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/4101.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/4101.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/3965.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/3965.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/3331.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/3331.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/order/3103.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/pdf/3103.html</loc>
-    <lastmod>2015-01-23T00:00:00+01:00</lastmod>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/pdf.html</loc>
+    <lastmod>2015-01-24T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
