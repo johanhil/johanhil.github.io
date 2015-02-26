@@ -1,0 +1,9 @@
+wkhtmltopdf http://localhost:4567/pdf/4811.html 4811.pdf
+wkhtmltopdf http://localhost:4567/pdf/4789.html 4789.pdf
+wkhtmltopdf http://localhost:4567/pdf/4730.html 4730.pdf
+wkhtmltopdf http://localhost:4567/pdf/4573.html 4573.pdf
+wkhtmltopdf http://localhost:4567/pdf/4101.html 4101.pdf
+wkhtmltopdf http://localhost:4567/pdf/3965.html 3965.pdf
+wkhtmltopdf http://localhost:4567/pdf/3331.html 3331.pdf
+wkhtmltopdf http://localhost:4567/pdf/3103.html 3103.pdf
+wkhtmltopdf http://localhost:4567/pdf/template.html template.pdf 
