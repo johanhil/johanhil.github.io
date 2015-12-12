@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Testing this Greta.io thing</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" id="gretaScript" src="https://cdn.greta.io/greta.min.js" data-ac="c5777b37c220e60aed51cd8770f6fffc"></script>
+</head>
+<body>
+  <div class="container">
+    <div>
+      <h1>Greta.io test</h1>
+      <p class="lead">Let's play a video</p>
+      
+      <video id="video" controls="" autoplay="" style="width: 720px; margin: 0 auto"></video>
+                
+      <script src="https://cdn.greta.io/hls_greta.js"></script>
+
+      greta.play({
+        type: "hlsjs",
+        url: "http://www.streambox.fr/playlists/x36xhzz/x36xhzz.m3u8",
+        playerId: "video",
+        autoPlay: true
+        live: true
+      }, cb);
+    </div>
+  </div>
+</body>
